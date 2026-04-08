@@ -26,6 +26,7 @@ module master_ahb(
     input CLK_MASTER,
     input RESET_MASTER,
     input HREADY,   // output of Slave and Input of Master
+    input HRESP,
     input [31:0] HRDATA,    // output of Slave and Input to Master
     
     // User defined Signals
