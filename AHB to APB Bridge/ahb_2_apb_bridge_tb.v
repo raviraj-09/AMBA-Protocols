@@ -311,7 +311,7 @@ module tb_ahb_to_apb_bridge;
     endtask
 
     // ============================================================
-    //  Stimulus
+    //  Stimulus 
     // ============================================================
     initial begin
         $dumpfile("tb_ahb_to_apb_bridge.vcd");
