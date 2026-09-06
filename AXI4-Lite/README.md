@@ -275,13 +275,6 @@ The final verification environment should be capable of:
 - Waveform viewer
 - Git / GitHub
 
-## Resume Alignment
-
-This project supports the following resume points:
-
-- **Developed a UVM-based verification environment for AXI protocol verification.**
-- **Created and executed test cases to verify AXI read/write transactions.**
-- **Performed simulation and waveform debugging to validate protocol compliance.**
 
 ## Future Enhancements
 
